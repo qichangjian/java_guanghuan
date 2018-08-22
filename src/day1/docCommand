@@ -1,0 +1,13 @@
+d:
+md 名字
+cd 名字
+md music
+md book
+md movie
+cd music
+copy con a.mp3
+cd ..
+cd book
+copy con hello.d
+copy con text.tx
+doskey /history
